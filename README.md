@@ -11,7 +11,7 @@
 	- Promedio
 - Envio y mostrar tabla con el mejor y peor promedio en otra página
 
-**GitHubPages:** 
+**GitHubPages:** https://juanesgalvis.github.io/JS-GET/
 
 ![index](https://i.ibb.co/d4CKPdT/Index.png)
 
