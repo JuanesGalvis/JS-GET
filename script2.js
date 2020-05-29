@@ -74,7 +74,8 @@ $BtnTop.addEventListener('click', () => {
  //MOSTRAR NOMBRE
  const SaludoNombre = document.createElement('h2')
  const FechaHoy = new Date()
- SaludoNombre.innerHTML = `Bienvenido ${NombreUser} hoy es ${FechaHoy}`
+ SaludoNombre.innerHTML = `Bienvenido ${NombreUser} hoy es ${FechaHoy.getDate() + "/" + (FechaHoy.getMonth() +1) + "/" + FechaHoy.getFullYear()}`
+ 
 
  $Cabecera.append(ImagenUser)
  $Cabecera.append(SaludoNombre)
