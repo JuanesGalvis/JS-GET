@@ -1,0 +1,29 @@
+{
+  "name": "practicaformget",
+  "version": "1.0.0",
+  "description": "Envio de información por GET con JavaScript y validación de dichos datos",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JuanesGalvis/JS-GET.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS3",
+    "JavaScript",
+    "Envio",
+    "de",
+    "datos",
+    "por",
+    "GET"
+  ],
+  "author": "Juan Galvis <juangalvis.sh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuanesGalvis/JS-GET/issues"
+  },
+  "homepage": "https://github.com/JuanesGalvis/JS-GET#readme"
+}
