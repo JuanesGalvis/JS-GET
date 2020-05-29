@@ -84,7 +84,7 @@ $BtnTop.addEventListener('click', () => {
  $BtnSend.addEventListener('click', ()=>{
 
     let Nombre = `Estudiante ${Math.round(Math.random()*10)}`
-    let Edad = Math.abs(Math.round(Math.random()*35))
+    let Edad = Math.floor(Math.random()* (35-18) + 18)
     // CALCULAR Y GENERAR NOTAS
     let CantidadNotas = Math.round(Math.random()*10)
     let Notas = []
